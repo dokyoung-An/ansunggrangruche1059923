@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node6" appversion="7.0.10" apprev="20025">
+  <panorama id="node6" hideabout="1">
+    <input height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" pan="-1.70439" tilt="-1.35516" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata comment="" info="" copyright="" altitude="144.30" latitude="34.968947" heading="0" title="세대입구" datetime="2024:09:12 11:41:48" source="" tags="2024년 09월 08일  안성 이편한세상 105동 701호 (44평)" longitude="127.534283" author="" customnodeid="" description="" nodeid="node6"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textalpha="1" border="1" width="180" textcolor="0x000000" borderradius="1" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" background="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_node" target="" id="Point01" pan="-6.2" title="현관" description="" tilt="-21.68" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomafterinfov="140" enabled="1" type="crossdissolve" zoomfov="40" blendcolor="0x000000" delay="none"/>
+    <autorotate noderandom="1" startloaded="0" useanimation="0" returntohorizon="0.000" horizonfromdefview="0" nodefilter="" nodedelay="0.00" enabled="1" speed="0.020" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextfullscreen="1" contextprojections="0" hideabout="1" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" invertwheel="0" zoomcentercursor="1" simulatemass="1" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" pan="179.603" tilt="-1.73519" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata comment="" info="" copyright="" altitude="144.30" latitude="34.968947" heading="0" title="현관" datetime="2024:09:12 11:41:42" source="" tags="2024년 09월 08일  안성 이편한세상 105동 701호 (44평)" longitude="127.534283" author="" customnodeid="" description="" nodeid="node5"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textalpha="1" border="1" width="180" textcolor="0x000000" borderradius="1" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" background="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_node" target="" id="Point01" pan="-2.92" title="세대입구" description="" tilt="-24.87" url="{node6}"/>
+      <hotspot skinid="ht_node" target="" id="Point02" pan="-178.31" title="복도3" description="" tilt="-31.84" url="{node1}"/>
+      <hotspot skinid="ht_node" target="" id="Point03" pan="-100.9" title="현관창고" description="" tilt="-30.7" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomafterinfov="140" enabled="1" type="crossdissolve" zoomfov="40" blendcolor="0x000000" delay="none"/>
+    <autorotate noderandom="1" startloaded="0" useanimation="0" returntohorizon="0.000" horizonfromdefview="0" nodefilter="" nodedelay="0.00" enabled="1" speed="0.020" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextfullscreen="1" contextprojections="0" hideabout="1" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" invertwheel="0" zoomcentercursor="1" simulatemass="1" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" pan="179.687" tilt="-1.77066" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata comment="" info="" copyright="" altitude="144.30" latitude="34.968947" heading="0" title="현관창고" datetime="2024:09:12 11:41:36" source="" tags="2024년 09월 08일  안성 이편한세상 105동 701호 (44평)" longitude="127.534283" author="" customnodeid="" description="" nodeid="node4"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textalpha="1" border="1" width="180" textcolor="0x000000" borderradius="1" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" background="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_node" target="" id="Point01" pan="-177.65" title="현관" description="" tilt="-39.35" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomafterinfov="140" enabled="1" type="crossdissolve" zoomfov="40" blendcolor="0x000000" delay="none"/>
+    <autorotate noderandom="1" startloaded="0" useanimation="0" returntohorizon="0.000" horizonfromdefview="0" nodefilter="" nodedelay="0.00" enabled="1" speed="0.020" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextfullscreen="1" contextprojections="0" hideabout="1" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" invertwheel="0" zoomcentercursor="1" simulatemass="1" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node17" hideabout="1">
+    <input height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" pan="-179.562" tilt="-1.04835" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata comment="" info="" copyright="" altitude="144.30" latitude="34.968947" heading="0" title="침실1" datetime="2024:09:12 11:41:00" source="" tags="2024년 09월 08일  안성 이편한세상 105동 701호 (44평)" longitude="127.534283" author="" customnodeid="" description="" nodeid="node17"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textalpha="1" border="1" width="180" textcolor="0x000000" borderradius="1" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" background="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_node" target="" id="Point01" pan="-203.47" title="파우더룸" description="" tilt="-19.37" url="{node16}"/>
+      <hotspot skinid="ht_node" target="" id="Point02" pan="-122.75" title="복도1" description="" tilt="-16.65" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomafterinfov="140" enabled="1" type="crossdissolve" zoomfov="40" blendcolor="0x000000" delay="none"/>
+    <autorotate noderandom="1" startloaded="0" useanimation="0" returntohorizon="0.000" horizonfromdefview="0" nodefilter="" nodedelay="0.00" enabled="1" speed="0.020" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextfullscreen="1" contextprojections="0" hideabout="1" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" invertwheel="0" zoomcentercursor="1" simulatemass="1" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node16" hideabout="1">
+    <input height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" pan="-87.8449" tilt="-4.55994" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata comment="" info="" copyright="" altitude="144.30" latitude="34.968947" heading="0" title="파우더룸" datetime="2024:09:12 11:40:54" source="" tags="2024년 09월 08일  안성 이편한세상 105동 701호 (44평)" longitude="127.534283" author="" customnodeid="" description="" nodeid="node16"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textalpha="1" border="1" width="180" textcolor="0x000000" borderradius="1" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" background="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_node" target="" id="Point01" pan="-191.6" title="침실1" description="" tilt="-20.82" url="{node17}"/>
+      <hotspot skinid="ht_node" target="" id="Point02" pan="-253.06" title="부부욕실" description="" tilt="-27.94" url="{node15}"/>
+      <hotspot skinid="ht_node" target="" id="Point03" pan="-358.92" title="드레스룸" description="" tilt="-24.27" url="{node14}"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomafterinfov="140" enabled="1" type="crossdissolve" zoomfov="40" blendcolor="0x000000" delay="none"/>
+    <autorotate noderandom="1" startloaded="0" useanimation="0" returntohorizon="0.000" horizonfromdefview="0" nodefilter="" nodedelay="0.00" enabled="1" speed="0.020" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextfullscreen="1" contextprojections="0" hideabout="1" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" invertwheel="0" zoomcentercursor="1" simulatemass="1" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <input height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" pan="-169.177" tilt="-0.33662" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata comment="" info="" copyright="" altitude="144.30" latitude="34.968947" heading="0" title="드레스룸" datetime="2024:09:12 11:40:42" source="" tags="2024년 09월 08일  안성 이편한세상 105동 701호 (44평)" longitude="127.534283" author="" customnodeid="" description="" nodeid="node14"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textalpha="1" border="1" width="180" textcolor="0x000000" borderradius="1" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" background="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_node" target="" id="Point01" pan="-179.84" title="파우더룸" description="" tilt="-20.86" url="{node16}"/>
+      <hotspot skinid="ht_node" target="" id="Point02" pan="-196.01" title="드레스룸1-2" description="" tilt="-25.45" url="{node13}"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomafterinfov="140" enabled="1" type="crossdissolve" zoomfov="40" blendcolor="0x000000" delay="none"/>
+    <autorotate noderandom="1" startloaded="0" useanimation="0" returntohorizon="0.000" horizonfromdefview="0" nodefilter="" nodedelay="0.00" enabled="1" speed="0.020" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextfullscreen="1" contextprojections="0" hideabout="1" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" invertwheel="0" zoomcentercursor="1" simulatemass="1" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" pan="-169.257" tilt="-0.30082" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata comment="넓게" info="" copyright="" altitude="144.30" latitude="34.968947" heading="0" title="드레스룸1-2" datetime="2024:09:12 11:40:35" source="" tags="2024년 09월 08일  안성 이편한세상 105동 701호 (44평)" longitude="127.534283" author="" customnodeid="" description="" nodeid="node13"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textalpha="1" border="1" width="180" textcolor="0x000000" borderradius="1" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" background="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_node" target="" id="Point01" pan="-174.8" title="드레스룸" description="" tilt="-42.07" url="{node14}"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomafterinfov="140" enabled="1" type="crossdissolve" zoomfov="40" blendcolor="0x000000" delay="none"/>
+    <autorotate noderandom="1" startloaded="0" useanimation="0" returntohorizon="0.000" horizonfromdefview="0" nodefilter="" nodedelay="0.00" enabled="1" speed="0.020" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextfullscreen="1" contextprojections="0" hideabout="1" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" invertwheel="0" zoomcentercursor="1" simulatemass="1" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node15" hideabout="1">
+    <input height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" pan="-90.9224" tilt="-2.29407" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata comment="" info="" copyright="" altitude="144.30" latitude="34.968947" heading="0" title="부부욕실" datetime="2024:09:12 11:40:48" source="" tags="2024년 09월 08일  안성 이편한세상 105동 701호 (44평)" longitude="127.534283" author="" customnodeid="" description="" nodeid="node15"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textalpha="1" border="1" width="180" textcolor="0x000000" borderradius="1" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" background="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_node" target="" id="Point01" pan="-184.13" title="파우더룸" description="" tilt="-35.14" url="{node16}"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomafterinfov="140" enabled="1" type="crossdissolve" zoomfov="40" blendcolor="0x000000" delay="none"/>
+    <autorotate noderandom="1" startloaded="0" useanimation="0" returntohorizon="0.000" horizonfromdefview="0" nodefilter="" nodedelay="0.00" enabled="1" speed="0.020" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextfullscreen="1" contextprojections="0" hideabout="1" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" invertwheel="0" zoomcentercursor="1" simulatemass="1" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" pan="178.075" tilt="1.00718" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata comment="" info="" copyright="" altitude="144.30" latitude="34.968947" heading="0" title="복도1" datetime="2024:09:12 11:40:24" source="" tags="2024년 09월 08일  안성 이편한세상 105동 701호 (44평)" longitude="127.534283" author="" customnodeid="" description="" nodeid="node11"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textalpha="1" border="1" width="180" textcolor="0x000000" borderradius="1" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" background="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_node" target="" id="Point01" pan="-184.01" title="거실" description="" tilt="-16.3" url="{node12}"/>
+      <hotspot skinid="ht_node" target="" id="Point02" pan="-269.34" title="복도2" description="" tilt="-23.25" url="{node10}"/>
+      <hotspot skinid="ht_node" target="" id="Point03" pan="-244.09" title="복도3" description="" tilt="-14.15" url="{node1}"/>
+      <hotspot skinid="ht_node" target="" id="Point04" pan="-351.79" title="주방" description="" tilt="-11.38" url="{node9}"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomafterinfov="140" enabled="1" type="crossdissolve" zoomfov="40" blendcolor="0x000000" delay="none"/>
+    <autorotate noderandom="1" startloaded="0" useanimation="0" returntohorizon="0.000" horizonfromdefview="0" nodefilter="" nodedelay="0.00" enabled="1" speed="0.020" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextfullscreen="1" contextprojections="0" hideabout="1" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" invertwheel="0" zoomcentercursor="1" simulatemass="1" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" pan="-8.07089" tilt="4.03001" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata comment="" info="" copyright="" altitude="144.30" latitude="34.968947" heading="0" title="주방" datetime="2024:09:12 11:40:14" source="" tags="2024년 09월 08일  안성 이편한세상 105동 701호 (44평)" longitude="127.534283" author="" customnodeid="" description="" nodeid="node9"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textalpha="1" border="1" width="180" textcolor="0x000000" borderradius="1" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" background="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_node" target="" id="Point01" pan="-177.11" title="다용도실" description="" tilt="-23.32" url="{node8}"/>
+      <hotspot skinid="ht_node" target="" id="Point02" pan="-278.05" title="복도1" description="" tilt="-13.8" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomafterinfov="140" enabled="1" type="crossdissolve" zoomfov="40" blendcolor="0x000000" delay="none"/>
+    <autorotate noderandom="1" startloaded="0" useanimation="0" returntohorizon="0.000" horizonfromdefview="0" nodefilter="" nodedelay="0.00" enabled="1" speed="0.020" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextfullscreen="1" contextprojections="0" hideabout="1" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" invertwheel="0" zoomcentercursor="1" simulatemass="1" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" pan="36.3806" tilt="-3.12762" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata comment="" info="" copyright="" altitude="144.30" latitude="34.968947" heading="0" title="다용도실" datetime="2024:09:12 11:40:10" source="" tags="2024년 09월 08일  안성 이편한세상 105동 701호 (44평)" longitude="127.534283" author="" customnodeid="" description="" nodeid="node8"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textalpha="1" border="1" width="180" textcolor="0x000000" borderradius="1" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" background="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_node" target="" id="Point01" pan="-45.67" title="실외기실" description="" tilt="-21.57" url="{node7}"/>
+      <hotspot skinid="ht_node" target="" id="Point02" pan="-237.5" title="주방" description="" tilt="-24.99" url="{node9}"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomafterinfov="140" enabled="1" type="crossdissolve" zoomfov="40" blendcolor="0x000000" delay="none"/>
+    <autorotate noderandom="1" startloaded="0" useanimation="0" returntohorizon="0.000" horizonfromdefview="0" nodefilter="" nodedelay="0.00" enabled="1" speed="0.020" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextfullscreen="1" contextprojections="0" hideabout="1" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" invertwheel="0" zoomcentercursor="1" simulatemass="1" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" pan="10.0905" tilt="-2.65529" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata comment="" info="" copyright="" altitude="144.30" latitude="34.968947" heading="0" title="실외기실" datetime="2024:09:12 11:40:05" source="" tags="2024년 09월 08일  안성 이편한세상 105동 701호 (44평)" longitude="127.534283" author="" customnodeid="" description="" nodeid="node7"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textalpha="1" border="1" width="180" textcolor="0x000000" borderradius="1" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" background="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_node" target="" id="Point01" pan="-257.86" title="다용도실" description="" tilt="-23.91" url="{node8}"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomafterinfov="140" enabled="1" type="crossdissolve" zoomfov="40" blendcolor="0x000000" delay="none"/>
+    <autorotate noderandom="1" startloaded="0" useanimation="0" returntohorizon="0.000" horizonfromdefview="0" nodefilter="" nodedelay="0.00" enabled="1" speed="0.020" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextfullscreen="1" contextprojections="0" hideabout="1" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" invertwheel="0" zoomcentercursor="1" simulatemass="1" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <input height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" pan="1.63322" tilt="-1.61572" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata comment="" info="" copyright="" altitude="144.30" latitude="34.968947" heading="0" title="거실" datetime="2024:09:12 11:40:30" source="" tags="2024년 09월 08일  안성 이편한세상 105동 701호 (44평)" longitude="127.534283" author="" customnodeid="" description="" nodeid="node12"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textalpha="1" border="1" width="180" textcolor="0x000000" borderradius="1" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" background="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_node" target="" id="Point01" pan="-224.8" title="침실1" description="" tilt="-13.85" url="{node17}"/>
+      <hotspot skinid="ht_node" target="" id="Point02" pan="-167.24" title="복도1" description="" tilt="-18.37" url="{node11}"/>
+      <hotspot skinid="ht_node" target="" id="Point03" pan="-136.4" title="복도2" description="" tilt="-16.09" url="{node10}"/>
+      <hotspot skinid="ht_node" target="" id="Point04" pan="-120.94" title="복도3" description="" tilt="-17.94" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomafterinfov="140" enabled="1" type="crossdissolve" zoomfov="40" blendcolor="0x000000" delay="none"/>
+    <autorotate noderandom="1" startloaded="0" useanimation="0" returntohorizon="0.000" horizonfromdefview="0" nodefilter="" nodedelay="0.00" enabled="1" speed="0.020" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextfullscreen="1" contextprojections="0" hideabout="1" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" invertwheel="0" zoomcentercursor="1" simulatemass="1" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" pan="-124.444" tilt="-0.88079" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata comment="" info="" copyright="" altitude="144.30" latitude="34.968947" heading="0" title="복도2" datetime="2024:09:12 11:40:19" source="" tags="2024년 09월 08일  안성 이편한세상 105동 701호 (44평)" longitude="127.534283" author="" customnodeid="" description="" nodeid="node10"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textalpha="1" border="1" width="180" textcolor="0x000000" borderradius="1" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" background="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_node" target="" id="Point01" pan="-107.74" title="복도1" description="" tilt="-26.48" url="{node11}"/>
+      <hotspot skinid="ht_node" target="" id="Point02" pan="-207.68" title="복도3" description="" tilt="-28.15" url="{node1}"/>
+      <hotspot skinid="ht_node" target="" id="Point03" pan="-191.96" title="침실2" description="" tilt="-17.24" url="{node19}"/>
+      <hotspot skinid="ht_node" target="" id="Point04" pan="-348.73" title="알파공간" description="" tilt="-24.16" url="{node18}"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomafterinfov="140" enabled="1" type="crossdissolve" zoomfov="40" blendcolor="0x000000" delay="none"/>
+    <autorotate noderandom="1" startloaded="0" useanimation="0" returntohorizon="0.000" horizonfromdefview="0" nodefilter="" nodedelay="0.00" enabled="1" speed="0.020" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextfullscreen="1" contextprojections="0" hideabout="1" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" invertwheel="0" zoomcentercursor="1" simulatemass="1" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node1" hideabout="1">
+    <input height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" pan="-176.618" tilt="-0.449714" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata comment="" info="" copyright="" altitude="144.30" latitude="34.968947" heading="0" title="복도3" datetime="2024:09:12 11:41:17" source="" tags="2024년 09월 08일  안성 이편한세상 105동 701호 (44평)" longitude="127.534283" author="" customnodeid="" description="" nodeid="node1"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textalpha="1" border="1" width="180" textcolor="0x000000" borderradius="1" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" background="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_node" target="" id="Point01" pan="-174.36" title="공용욕실" description="" tilt="-15.52" url="{node3}"/>
+      <hotspot skinid="ht_node" target="" id="Point02" pan="-147.78" title="침실3" description="" tilt="-18.53" url="{node2}"/>
+      <hotspot skinid="ht_node" target="" id="Point03" pan="-212.81" title="현관" description="" tilt="-21.97" url="{node5}"/>
+      <hotspot skinid="ht_node" target="" id="Point04" pan="-356.23" title="복도2" description="" tilt="-24.18" url="{node10}"/>
+      <hotspot skinid="ht_node" target="" id="Point05" pan="-18.09" title="침실2" description="" tilt="-23.37" url="{node19}"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomafterinfov="140" enabled="1" type="crossdissolve" zoomfov="40" blendcolor="0x000000" delay="none"/>
+    <autorotate noderandom="1" startloaded="0" useanimation="0" returntohorizon="0.000" horizonfromdefview="0" nodefilter="" nodedelay="0.00" enabled="1" speed="0.020" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextfullscreen="1" contextprojections="0" hideabout="1" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" invertwheel="0" zoomcentercursor="1" simulatemass="1" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node19" hideabout="1">
+    <input height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" pan="-176.814" tilt="-0.449714" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata comment="" info="" copyright="" altitude="144.30" latitude="34.968947" heading="0" title="침실2" datetime="2024:09:12 11:41:11" source="" tags="2024년 09월 08일  안성 이편한세상 105동 701호 (44평)" longitude="127.534283" author="" customnodeid="" description="" nodeid="node19"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textalpha="1" border="1" width="180" textcolor="0x000000" borderradius="1" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" background="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_node" target="" id="Point01" pan="-207.9" title="복도2" description="" tilt="-18.84" url="{node10}"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomafterinfov="140" enabled="1" type="crossdissolve" zoomfov="40" blendcolor="0x000000" delay="none"/>
+    <autorotate noderandom="1" startloaded="0" useanimation="0" returntohorizon="0.000" horizonfromdefview="0" nodefilter="" nodedelay="0.00" enabled="1" speed="0.020" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextfullscreen="1" contextprojections="0" hideabout="1" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" invertwheel="0" zoomcentercursor="1" simulatemass="1" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" pan="-176.814" tilt="-0.449714" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata comment="" info="" copyright="" altitude="144.30" latitude="34.968947" heading="0" title="침실3" datetime="2024:09:12 11:41:24" source="" tags="2024년 09월 08일  안성 이편한세상 105동 701호 (44평)" longitude="127.534283" author="" customnodeid="" description="" nodeid="node2"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textalpha="1" border="1" width="180" textcolor="0x000000" borderradius="1" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" background="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_node" target="" id="Point01" pan="-208.98" title="복도3" description="" tilt="-21.8" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomafterinfov="140" enabled="1" type="crossdissolve" zoomfov="40" blendcolor="0x000000" delay="none"/>
+    <autorotate noderandom="1" startloaded="0" useanimation="0" returntohorizon="0.000" horizonfromdefview="0" nodefilter="" nodedelay="0.00" enabled="1" speed="0.020" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextfullscreen="1" contextprojections="0" hideabout="1" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" invertwheel="0" zoomcentercursor="1" simulatemass="1" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node18" hideabout="1">
+    <input height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" pan="-176.814" tilt="-0.449714" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata comment="" info="" copyright="" altitude="144.30" latitude="34.968947" heading="0" title="알파공간" datetime="2024:09:12 11:41:06" source="" tags="2024년 09월 08일  안성 이편한세상 105동 701호 (44평)" longitude="127.534283" author="" customnodeid="" description="" nodeid="node18"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textalpha="1" border="1" width="180" textcolor="0x000000" borderradius="1" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" background="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_node" target="" id="Point01" pan="-147.88" title="복도2" description="" tilt="-21.85" url="{node10}"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomafterinfov="140" enabled="1" type="crossdissolve" zoomfov="40" blendcolor="0x000000" delay="none"/>
+    <autorotate noderandom="1" startloaded="0" useanimation="0" returntohorizon="0.000" horizonfromdefview="0" nodefilter="" nodedelay="0.00" enabled="1" speed="0.020" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextfullscreen="1" contextprojections="0" hideabout="1" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" invertwheel="0" zoomcentercursor="1" simulatemass="1" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510">
+      <level height="2000" predecode="0" width="2000" preload="0"/>
+      <level height="1000" predecode="0" width="1000" preload="0"/>
+      <level height="500" predecode="1" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="147.14" pan="7.30262" tilt="-1.81824" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata comment="" info="" copyright="" altitude="144.30" latitude="34.968947" heading="0" title="공용욕실" datetime="2024:09:12 11:41:30" source="" tags="2024년 09월 08일  안성 이편한세상 105동 701호 (44평)" longitude="127.534283" author="" customnodeid="" description="" nodeid="node3"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textalpha="1" border="1" width="180" textcolor="0x000000" borderradius="1" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" background="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_node" target="" id="Point01" pan="-193.92" title="복도3" description="" tilt="-27.9" url="{node1}"/>
+      <hotspot skinid="ht_node" target="" id="Point02" pan="-206.51" title="침실3" description="" tilt="-15.16" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomout="0" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomafterinfov="140" enabled="1" type="crossdissolve" zoomfov="40" blendcolor="0x000000" delay="none"/>
+    <autorotate noderandom="1" startloaded="0" useanimation="0" returntohorizon="0.000" horizonfromdefview="0" nodefilter="" nodedelay="0.00" enabled="1" speed="0.020" delay="10.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control speedwheel="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" contextfullscreen="1" contextprojections="0" hideabout="1" sensitivity="8" lockedkeyboardzoom="0" contextvr="1" invertwheel="0" zoomcentercursor="1" simulatemass="1" lockedmouse="0" lockedkeyboard="0"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" author="" copyright="" title="이편한세상 안성그랑루체" description="105동 701호" tags=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
